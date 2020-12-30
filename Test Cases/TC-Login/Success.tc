@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12dae3cc-7ff5-4592-848d-174469d8e627</testCaseGuid>
+   <variable>
+      <defaultValue>'Angoji01'</defaultValue>
+      <description></description>
+      <id>3a66f223-f6f1-48e9-8135-c7ead591e145</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>7747d91b-669b-4653-ad5e-40ecf97ab3da</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Agung'</defaultValue>
+      <description></description>
+      <id>d0a9a787-97c2-4937-a83c-54df7d7833b3</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+</TestCaseEntity>

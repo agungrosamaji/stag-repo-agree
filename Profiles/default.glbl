@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>APK directory</description>
+      <initValue>'androidapp/app-staging-suite-20201228.apk'</initValue>
+      <name>G_AndroidApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Change Screen</description>
+      <initValue>10</initValue>
+      <name>G_TimeOutScreen</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Verify Object</description>
+      <initValue>1</initValue>
+      <name>G_TimeOutVerify</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

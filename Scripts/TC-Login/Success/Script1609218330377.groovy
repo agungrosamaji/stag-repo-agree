@@ -29,6 +29,6 @@ Mobile.waitForElementPresent(findTestObject('Screen_Home/Text_Nama_Mitra'), 0, F
 
 Mobile.verifyElementText(findTestObject('Screen_Home/Text_Nama_Mitra'), nama, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(20)
+//Mobile.delay(20)
 
 Mobile.closeApplication()
